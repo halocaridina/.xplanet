@@ -1,7 +1,7 @@
 [sun]
 "Sun"
 color={0,0,0}
-shade=100			# No night side!
+shade=100
 ###########################################
 [earth]
 "Earth in Realtime"
