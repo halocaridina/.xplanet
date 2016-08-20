@@ -5,3 +5,6 @@ markers/*
 satellites/*
 personal/images/*
 personal/scripts/temp/*
+.DS_Store
+personal/.DS_Store
+personal/scripts/.DS_Store
